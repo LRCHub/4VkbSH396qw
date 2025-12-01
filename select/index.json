@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Love's Like A Western Song",
+  "base_artist": "Louis Vision、BBY NABE、Hinako Miura",
+  "createdAt": "2025-12-01T04:30:45.331911Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love's Like A Western Song",
+      "artist": "Louis Vision",
+      "has_synced": true,
+      "path": "select/01_Love's_Like_A_Western_Song_Louis_Vision.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love's Like A Western Song",
+      "artist": "Hinako Miura",
+      "has_synced": true,
+      "path": "select/02_Love's_Like_A_Western_Song_Hinako_Miura.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love's Like a Western Song",
+      "artist": "Louis Vision, BBY NABE",
+      "has_synced": true,
+      "path": "select/03_Love's_Like_a_Western_Song_Louis_Vision,_BBY_NABE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love's Like A Western Song",
+      "artist": "Louis Vision, BBY NABE, 三浦ひな子",
+      "has_synced": false,
+      "path": "select/pl_01_Love's_Like_A_Western_Song_Louis_Vision,_BBY_NABE,_三浦ひな子.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Love's Like A Western Song",
+      "artist": "Louis Vision, BBY NABE, 三浦ひな子",
+      "has_synced": false,
+      "path": "select/pl_02_Love's_Like_A_Western_Song_Louis_Vision,_BBY_NABE,_三浦ひな子.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Love's Like A Western Song",
+      "artist": "Louis Vision, BBY NABE, 三浦ひな子",
+      "has_synced": false,
+      "path": "select/pl_03_Love's_Like_A_Western_Song_Louis_Vision,_BBY_NABE,_三浦ひな子.txt"
+    }
+  ]
+}
